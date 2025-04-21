@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "target": "ESNext",
+        "checkJs": false,
+        "experimentalDecorators": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true
+    }
+}
